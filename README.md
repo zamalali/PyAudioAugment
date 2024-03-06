@@ -3,6 +3,8 @@
 ## Introduction
 The PyAudioAugment Tool is a powerful Python package tailored to augment audio files effortlessly, revolutionizing the enhancement of datasets for machine learning and data science endeavors focusing on audio processing. Leveraging the renowned `audiomentations` library, this tool offers a comprehensive suite of transformations, including noise addition, pitch shifting, time stretching, and gain adjustment, thereby amplifying the diversity and robustness of audio datasets.
 
+### Install this using [pip](https://pypi.org/project/pyaudioaugment/)
+
 ### Here's how AugmentImg User Interface looks like
 
 ![AugmentImg UI](images/Capture.png) 
