@@ -1,0 +1,4 @@
+librosa==0.10.1
+soundfile==0.12.1
+audiomentations==0.34.1
+PyQt5
