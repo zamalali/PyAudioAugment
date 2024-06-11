@@ -1,5 +1,10 @@
 # PyAudioAugment Tool 🔊
 
+[![PyPI](https://img.shields.io/pypi/v/pyaudioaugment)](https://pypi.org/project/pyaudioaugment/)
+[![Language](https://img.shields.io/badge/lang-en-blue.svg)](#)
+[![Downloads](https://pepy.tech/badge/pyaudioaugment)](https://pepy.tech/project/pyaudioaugment)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 The PyAudioAugment Tool is a powerful Python package tailored to augment audio files effortlessly, revolutionizing the enhancement of datasets for machine learning and data science endeavors focusing on audio processing. Leveraging the renowned `audiomentations` library, this tool offers a comprehensive suite of transformations, including noise addition, pitch shifting, time stretching, and gain adjustment, thereby amplifying the diversity and robustness of audio datasets.
 
